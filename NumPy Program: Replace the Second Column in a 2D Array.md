@@ -22,7 +22,8 @@ print("Array after deleting column 2 on axis 1")
 c=np.delete(a,1,axis=1)
 print(c)
 print("Array after inserting column 2 on axis 1")
-print(np.insert(c,1,b,axis=1))```
+print(np.insert(c,1,b,axis=1))
+```
 
 
 ## Output
